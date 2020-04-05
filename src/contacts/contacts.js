@@ -15,7 +15,7 @@ class Contacts extends React.Component {
         this.setState({ term: event.target.value });
     }
     render() {
-        let filterContacts = this.state.contacts.filter(
+        const filterContacts = this.state.contacts.filter(
             (contact) => {
                return contact.lastName.toLowerCase().indexOf(this.state.term.toLowerCase()) !== -1;
             }
