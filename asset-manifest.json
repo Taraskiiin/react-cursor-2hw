@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-cursor-2hw/static/css/main.9346ddb9.chunk.css",
+    "main.js": "/react-cursor-2hw/static/js/main.bc12b342.chunk.js",
+    "main.js.map": "/react-cursor-2hw/static/js/main.bc12b342.chunk.js.map",
+    "runtime-main.js": "/react-cursor-2hw/static/js/runtime-main.33b8c25d.js",
+    "runtime-main.js.map": "/react-cursor-2hw/static/js/runtime-main.33b8c25d.js.map",
+    "static/js/2.5330f1d1.chunk.js": "/react-cursor-2hw/static/js/2.5330f1d1.chunk.js",
+    "static/js/2.5330f1d1.chunk.js.map": "/react-cursor-2hw/static/js/2.5330f1d1.chunk.js.map",
+    "index.html": "/react-cursor-2hw/index.html",
+    "precache-manifest.683c931ddc500f29a2d9ac463324a804.js": "/react-cursor-2hw/precache-manifest.683c931ddc500f29a2d9ac463324a804.js",
+    "service-worker.js": "/react-cursor-2hw/service-worker.js",
+    "static/css/main.9346ddb9.chunk.css.map": "/react-cursor-2hw/static/css/main.9346ddb9.chunk.css.map",
+    "static/js/2.5330f1d1.chunk.js.LICENSE.txt": "/react-cursor-2hw/static/js/2.5330f1d1.chunk.js.LICENSE.txt",
+    "static/media/female.svg": "/react-cursor-2hw/static/media/female.ae10377b.svg",
+    "static/media/male.svg": "/react-cursor-2hw/static/media/male.1c57bf04.svg",
+    "static/media/mask.svg": "/react-cursor-2hw/static/media/mask.8b58d9ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b8c25d.js",
+    "static/js/2.5330f1d1.chunk.js",
+    "static/css/main.9346ddb9.chunk.css",
+    "static/js/main.bc12b342.chunk.js"
+  ]
+}
